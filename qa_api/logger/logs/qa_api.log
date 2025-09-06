@@ -1,8 +1,0 @@
-qa_api 2025-09-06 00:29:26,035 INFO Database engine started
-qa_api 2025-09-06 00:29:26,126 INFO Connection to database established successfully.
-qa_api 2025-09-06 00:29:26,126 INFO App started
-qa_api 2025-09-06 00:29:50,312 INFO Created new record: <Question(id=1, text='string', created_at=2025-09-06 00:29:50.305834)>
-qa_api 2025-09-06 00:30:30,133 INFO Created new record: <Answer(id=1, question_id=1, user_id='3fa85f64-5717-4562-b3fc-2c963f66afa6', text='string', created_at=2025-09-06 00:30:30.123287)>
-qa_api 2025-09-06 00:30:34,709 INFO Created new record: <Answer(id=2, question_id=1, user_id='3fa85f64-5717-4562-b3fc-2c963f66afa6', text='string', created_at=2025-09-06 00:30:34.701607)>
-qa_api 2025-09-06 00:31:21,974 INFO Record deleted: <Answer(id=1, question_id=1, user_id='3fa85f64-5717-4562-b3fc-2c963f66afa6', text='string', created_at=2025-09-06 00:30:30.123287)>
-qa_api 2025-09-06 00:31:55,332 INFO Record deleted: <Question(id=1, text='string', created_at=2025-09-06 00:29:50.305834)>
