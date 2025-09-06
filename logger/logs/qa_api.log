@@ -1,0 +1,8 @@
+qa_api 2025-09-06 03:25:47,622 INFO Database engine started
+qa_api 2025-09-06 03:25:48,049 INFO Created new record: <Question(id=1, text='Test question', created_at=2025-09-06 00:25:48)>
+qa_api 2025-09-06 03:25:48,057 INFO Created new record: <Answer(id=1, question_id=1, user_id='b3c8a321-c4bb-48cf-808e-486f4ff8a504', text='Test answer', created_at=2025-09-06 00:25:48)>
+qa_api 2025-09-06 03:25:48,077 INFO Record deleted: <Answer(id=1, question_id=1, user_id='b3c8a321-c4bb-48cf-808e-486f4ff8a504', text='Test answer', created_at=2025-09-06 00:25:48)>
+qa_api 2025-09-06 03:25:48,082 INFO Created new record: <Question(id=2, text='Test question for an', created_at=2025-09-06 00:25:48)>
+qa_api 2025-09-06 03:25:48,089 INFO Created new record: <Answer(id=1, question_id=2, user_id='10a8b591-bde0-4773-bdff-4decb9eccbc8', text='Test answer', created_at=2025-09-06 00:25:48)>
+qa_api 2025-09-06 03:25:48,105 INFO Created new record: <Question(id=3, text='Question to delete', created_at=2025-09-06 00:25:48)>
+qa_api 2025-09-06 03:25:48,120 INFO Record deleted: <Question(id=3, text='Question to delete', created_at=2025-09-06 00:25:48)>
